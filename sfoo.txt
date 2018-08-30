@@ -4,3 +4,4 @@ address : singapore
 postcode: 2245252
 fav animal: cat
 color: yellow
+fav=blue
