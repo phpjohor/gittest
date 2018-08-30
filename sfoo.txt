@@ -3,4 +3,4 @@ tel :2 22422
 address : singapore
 postcode: 2245252
 fav animal: cat
-
+color: yellow
