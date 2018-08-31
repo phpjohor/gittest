@@ -1,4 +1,4 @@
-name : sfoo
+name : SFOO
 tel :2 22422
 address : singapore
 postcode: 2245252
