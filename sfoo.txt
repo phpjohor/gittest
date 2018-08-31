@@ -6,3 +6,4 @@ fav animal: cat
 color: yellow
 fav=red-blue
 test=remote
+test=remotetmp
