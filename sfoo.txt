@@ -7,3 +7,4 @@ color: yellow
 fav=red-blue
 test=remote
 test=remotetmp
+test3= update from github
