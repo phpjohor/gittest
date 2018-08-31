@@ -8,3 +8,4 @@ fav=red-blue
 test=remote
 test=remotetmp
 test3= update from github
+test4= lcoal new branch= fav-animal
